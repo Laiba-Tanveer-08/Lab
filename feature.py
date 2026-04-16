@@ -1,1 +1,1 @@
-print("Hello, Git! Iam a main1.)
+print("Hello, Git! Iam a main.)
